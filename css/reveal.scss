@@ -1391,7 +1391,7 @@ $controlsArrowAngleActive: 36deg;
 .reveal.rtl .slides h5,
 .reveal.rtl .slides h6 {
 	direction: rtl;
-	font-family: sans-serif;
+	font-family: serif;
 }
 
 .reveal.rtl pre,
@@ -1725,7 +1725,7 @@ $notesWidthPercent: 25%;
 	overflow: auto;
 	box-sizing: border-box;
 	text-align: left;
-	font-family: Helvetica, sans-serif;
+	font-family: Georgia, serif;
 	-webkit-overflow-scrolling: touch;
 
 	.notes-placeholder {
